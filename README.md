@@ -1,22 +1,36 @@
 
 
 
-<h1 align="center">Jomana Mostafa</h1>
-<h3 align="center">AI Engineer in Progress 🤖</h3>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h1 align="center">Jomana Mostafa</h1>
+      <h3 align="center">AI Engineer in Progress 🤖</h3>
+      <p align="center">
+        Building intelligent systems through AI, data, and scalable software engineering.
+      </p>
+      <p align="center">
+        Python • Java • SQL • Machine Learning • Data Engineering • Full-Stack
+      </p>
+    </td>
+    <td>
+     <img src="nice.gif" width="100px" style="border-radius:20px; padding:0;"/>
+    </td>
+  </tr>
 
-<p align="center">
-  Building intelligent systems through AI, data, and scalable software engineering.
+  <tr><td "colspan="2">
+    <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=root@system:~$+init+ai_protocol;>+Establishing+secure+connection...;>+Loading+Full-Stack+drivers...;>+Accessing+ML_core_modules...;>+Welcome+to+the+mainframe." />
 </p>
-
-<p align="center">
-  Python • Java • SQL • Machine Learning • Data Engineering • Full-Stack
+  </td></tr>
+  <tr>
+    <td"colspan="2">
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
----
-
-<p align="center">
-  <img src="nice.gif" width="auto" style="border-radius:100px;"/>
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,10 +92,10 @@ Design systems that turn data into intelligence.
 ## CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/jomanamostafa">
+  <a href="[https://linkedin.com/in/jomanamostafa](https://www.linkedin.com/in/jomana-mostafa/)">
     <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:jomana.halafawy.ket@email.com">
     <img src="https://img.shields.io/badge/Email-00c3ff?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/jomanamostafa">
