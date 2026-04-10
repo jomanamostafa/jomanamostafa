@@ -1,7 +1,8 @@
 
+![Demo GIF](Untitled(1).gif)
+
 <h1 align="center">⚡ Jomana Mostafa ⚡</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🟢 | TARGET: FAANG 🎯</h3>
-![Demo GIF](Untitled(1).gif)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=root@system:~$+init+ai_protocol;>+Establishing+secure+connection...;>+Loading+Full-Stack+drivers...;>+Accessing+ML_core_modules...;>+Welcome+to+the+mainframe." />
 </p>
