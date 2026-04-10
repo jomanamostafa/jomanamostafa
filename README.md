@@ -100,12 +100,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-<h2 align="center">¯\_(ツ)_/¯</h2>
-<h3 align="center">Code. Learn. Build. Evolve.</h3>
+   <tr colspan="2"> 
+<h3 align="center">Code. Learn. Build. Evolve.¯\_(ツ)_/¯.....</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
-   </td>
   </tr>
   
 </table>
