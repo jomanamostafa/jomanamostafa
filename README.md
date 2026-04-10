@@ -13,8 +13,8 @@
         Python • Java • SQL • Machine Learning • Data Engineering • Full-Stack
       </p>
     </td>
-    <td>
-     <img src="nice.gif" width="100px" style="border-radius:20px; padding:0;"/>
+    <td rowspan="2">
+     <img src="nice.gif" width="170px" style="border-radius:30px; padding:0;"/>
     </td>
   </tr>
 
