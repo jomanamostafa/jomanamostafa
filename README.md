@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="nice.gif" width="90%" style="border-radius:100px;"/>
+  <img src="nice.gif" width="auto" style="border-radius:100px;"/>
 </p>
 
 ---
