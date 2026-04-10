@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">💀 j0m4n4_m0st4f4 💀</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🤖 | TARGET: FAANG 🎯</h3>
 
