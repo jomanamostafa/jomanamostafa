@@ -58,9 +58,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00cc6a,100:00ff88&height=4&section=header&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+
 
    </td>
      <!-- Right column: TECH STACK -->
