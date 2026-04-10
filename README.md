@@ -28,8 +28,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
 </p>
 
----
-
 ### 🔐 [ SYSTEM_BOOT_LOG ]
 ```bash
 ┌─[ INITIALIZING_ENVIRONMENT ]──────────────────────────────────────────┐
