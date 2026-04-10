@@ -1,9 +1,5 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
-</p>
+
 
 <h1 align="center">Jomana Mostafa</h1>
 <h3 align="center">AI Engineer in Progress 🤖</h3>
@@ -19,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="nice.gif" width="320" style="border-radius:16px;"/>
+  <img src="nice.gif" width="90%" style="border-radius:100px;"/>
 </p>
 
 ---
