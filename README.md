@@ -3,7 +3,7 @@
 
 Here’s a quick look at the animation:
 
-![Demo GIF](Untitled (1).gif)
+![Demo GIF](nice.gif)
 
 
 <h1 align="center">⚡ Jomana Mostafa ⚡</h1>
