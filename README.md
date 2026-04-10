@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="Untitled(1).gif" 
+      <img src="nice.gif" 
            alt="Coding Setup" 
            width="150" 
            height="450" 
