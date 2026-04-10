@@ -34,37 +34,49 @@
 </table>
 
 ---
+<table>
+  <tr>
+    <td valign="top" width="50%">
+       <h2>  ABOUT ME ◝(ᵔᗜᵔ)◜)</h2>
+      <p>
+<ul>
+  <li>🎓 Computing & Digital Tech student at ESLSCA University</li>
+  <li>🌍 Based in Giza, Egypt</li>
+  <li>🚀 Building skills in AI, Data Systems, and Scalable Backend Engineering</li>
+  <li>🎯 Goal: FAANG AI Engineer, with a strong digital portfolio and brand</li>
+</ul>
+   </td>
+     <!-- Right column: TECH STACK -->
+    <td valign="top" width="50%">
+      
+  <h2> TECH STACK ദ്ദി(ᵔᗜᵔ)</h2>
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="90"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="90"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=github" width="90"/></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="90"/></td>
+  </tr>
+</table>
 
-## SYSTEM CORE
+      
+   </td>
+  </tr>
+</table>
 
-```bash
-IDENTITY  : jomanamostafa
-ROLE      : AI ENGINEER (IN PROGRESS)
-STATUS    : ONLINE 🟢
 
-DOMAIN:
-→ Artificial Intelligence
-→ Data Systems
-→ Scalable Backend Engineering
-
-CURRENT FOCUS:
-✔ Machine Learning Systems
-✔ Data Pipelines
-✔ Full-Stack Applications
-
-MISSION:
-Design systems that turn data into intelligence.
-````
-
----
-
-## TECH STACK ദ്ദി(ᵔᗜᵔ)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,mongodb,docker,linux,git,github,aws"/>
-</p>
-
----
 
 ## ENGINE STATUS 𐔌՞. .՞𐦯
 
