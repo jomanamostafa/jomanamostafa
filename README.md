@@ -5,7 +5,7 @@
   <tr>
     <td>
       <h1 align="center">Hi ! I am Jomana  </h1>
-      <h2 align="center">ωᥱℓᥴ𐐫mᥱ! to my Space! (˶ˆᗜˆ˵)/</h2>
+      <h2 align="center">ωᥱℓᥴ𐐫mᥱ ! to my Space! (˶ˆᗜˆ˵)/</h2>
       <h3 align="center">AI Engineer in Progress </h3>
       <p align="center">
         Building intelligent systems through AI, data, and scalable software engineering.
@@ -48,6 +48,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
 </p>
+<h2>NEURAL ACTIVITY (˶˃ ᵕ ˂˶) .ᐟ.ᐟ </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc6a&point=00ff88&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00cc6a,100:00ff88&height=4&section=header&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
+
    </td>
      <!-- Right column: TECH STACK -->
     <td valign="top" width="50%">
@@ -72,33 +86,8 @@
     <td><img src="https://skillicons.dev/icons?i=github" width="90"/></td>
     <td><img src="https://skillicons.dev/icons?i=aws" width="90"/></td>
   </tr>
-</table>
-
-      
-   </td>
-  </tr>
-</table>
-
-
-
-
-
-
----
-
-## NEURAL ACTIVITY (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc6a&point=00ff88&area=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00cc6a,100:00ff88&height=4&section=header&animation=fadeIn"/>
-</p>
-
----
-
-## CONNECT ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
+</table> 
+ <h2> CONNECT ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗ </h2>
 
 <p align="center">
   <a href="[https://linkedin.com/in/jomanamostafa](https://www.linkedin.com/in/jomana-mostafa/)">
@@ -111,10 +100,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
+<h2 align="center">¯\_(ツ)_/¯</h2>
 <h3 align="center">Code. Learn. Build. Evolve.</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
+   </td>
+  </tr>
+  
+</table>
 
