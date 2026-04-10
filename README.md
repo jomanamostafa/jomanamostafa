@@ -20,8 +20,8 @@
     <td align="center" valign="middle">
       <img src="nice.gif" 
            alt="Coding Setup" 
-           width="150" 
-           height="450" 
+           width="100%" 
+           height="100%" 
            style="border-radius: 12px; box-shadow: 0 0 20px #00ff88; border: 2px solid #00ff88;" />
     </td>
     <td align="left" valign="middle">
