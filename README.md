@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">⚡ Jomana Mostafa ⚡</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🟢 | TARGET: FAANG 🎯</h3>
 
