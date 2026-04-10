@@ -65,26 +65,29 @@ Design systems that turn data into intelligence.
 
 ---
 
-## ENGINE STATUS
+## ⚙️ ENGINE STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomanamostafa&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true" height="160"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomanamostafa&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
-## NEURAL ACTIVITY
+## 🧠 NEURAL ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc6a&point=00ff88&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00cc6a,100:00ff88&height=4&section=header&animation=fadeIn"/>
 </p>
 
 ---
@@ -109,7 +112,3 @@ Design systems that turn data into intelligence.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
 
-
-```
-
----
