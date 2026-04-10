@@ -1,5 +1,10 @@
 
+# Project Preview
+
+Here’s a quick look at the animation:
+
 ![Demo GIF](Untitled(1).gif)
+
 
 <h1 align="center">⚡ Jomana Mostafa ⚡</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🟢 | TARGET: FAANG 🎯</h3>
