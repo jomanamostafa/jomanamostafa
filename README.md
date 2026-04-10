@@ -37,14 +37,17 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-       <h2>  ABOUT ME ◝(ᵔᗜᵔ)◜)</h2>
-      <p>
-<ul>
-  <li>🎓 Computing & Digital Tech student at ESLSCA University</li>
-  <li>🌍 Based in Giza, Egypt</li>
-  <li>🚀 Building skills in AI, Data Systems, and Scalable Backend Engineering</li>
-  <li>🎯 Goal: FAANG AI Engineer, with a strong digital portfolio and brand</li>
-</ul>
+       <h2> ENGINE STATUS ◝(ᵔᗜᵔ)◜</h2>
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true" height="auto"/>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
+</p>
    </td>
      <!-- Right column: TECH STACK -->
     <td valign="top" width="50%">
@@ -78,17 +81,7 @@
 
 
 
-## ENGINE STATUS 𐔌՞. .՞𐦯
 
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true" height="160"/>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
-</p>
 
 
 ---
