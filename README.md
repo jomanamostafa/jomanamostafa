@@ -14,19 +14,21 @@
 
 ---
 
-<!-- 📺 PROFESSIONAL TALL GIF SHOWCASE 📺 -->
+<!-- 📺 TALL ANIMATED GIF SECTION 📺 -->
 <p align="center">
   <img src="Untitled(1).gif" 
-       alt="Coding in Progress" 
+       alt="Coding Setup" 
        width="150" 
        height="450" 
-       style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.5); border: 2px solid #00ff88;" />
+       style="border-radius: 12px; box-shadow: 0 0 20px #00ff88; border: 2px solid #00ff88;" />
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc6a&height=4&section=header&animation=fadeIn"/>
 </p>
+
+---
 
 ### 🔐 [ SYSTEM_BOOT_LOG ]
 ```bash
