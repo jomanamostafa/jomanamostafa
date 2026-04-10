@@ -1,4 +1,4 @@
-
+**
 <h1 align="center">Hi! I am Jomana</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🟢 | TARGET: FAANG 🎯</h3>
 
@@ -95,10 +95,10 @@
 ### 🌐 [ CONNECT_PROTOCOL ]
 
 <p align="center">
-  <a href="https://linkedin.com/in/jomanamostafa">
+  <a href="https://linkedin.com/in/jomana-mostafa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:jomana.halafawy.ket@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/jomanamostafa">
@@ -114,3 +114,4 @@
 ---
 
 
+**
