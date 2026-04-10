@@ -4,8 +4,9 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <h1 align="center">Jomana Mostafa</h1>
-      <h3 align="center">AI Engineer in Progress 🤖</h3>
+      <h1 align="center">Hi ! I am Jomana  </h1>
+      <h2 align="center">ωᥱℓᥴ𐐫mᥱ! to my Space! (˶ˆᗜˆ˵)/</h2>
+      <h3 align="center">AI Engineer in Progress </h3>
       <p align="center">
         Building intelligent systems through AI, data, and scalable software engineering.
       </p>
@@ -57,7 +58,7 @@ Design systems that turn data into intelligence.
 
 ---
 
-## TECH STACK
+## TECH STACK ദ്ദി(ᵔᗜᵔ)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,mongodb,docker,linux,git,github,aws"/>
@@ -65,7 +66,7 @@ Design systems that turn data into intelligence.
 
 ---
 
-## ⚙️ ENGINE STATUS
+## ENGINE STATUS 𐔌՞. .՞𐦯
 
 <p align="center">
 
@@ -80,7 +81,7 @@ Design systems that turn data into intelligence.
 
 ---
 
-## 🧠 NEURAL ACTIVITY
+## NEURAL ACTIVITY (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc6a&point=00ff88&area=true"/>
@@ -92,7 +93,7 @@ Design systems that turn data into intelligence.
 
 ---
 
-## CONNECT
+## CONNECT ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
 
 <p align="center">
   <a href="[https://linkedin.com/in/jomanamostafa](https://www.linkedin.com/in/jomana-mostafa/)">
