@@ -1,130 +1,105 @@
 
-<!-- 🦋 FLOATING BUTTERFLIES -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/>
 </p>
 
 <h1 align="center">Jomana Mostafa</h1>
-<h3 align="center">AI Engineer in Progress 🤖 • Future FAANG 🚀</h3>
+<h3 align="center">AI Engineer in Progress 🤖</h3>
 
-<!-- ⚡ ELITE TERMINAL TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=>+boot+ai_system;>+loading+neural_networks...;>+initializing+machine_learning...;>+status:+ONLINE+✔;>+welcome+to+jomana.dev+🦋" />
+  Building intelligent systems through AI, data, and scalable software engineering.
 </p>
 
-<!-- 🌌 GLASS HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+  Python • Java • SQL • Machine Learning • Data Engineering • Full-Stack
 </p>
 
 ---
 
-<!-- 💻 2-COLUMN PERFECT LAYOUT -->
-<table align="center" width="100%">
-<tr>
+<p align="center">
+  <img src="nice.gif" width="320" style="border-radius:16px;"/>
+</p>
 
-<td width="50%" align="center">
+---
 
-<img src="nice.gif" width="92%" style="border-radius:16px; box-shadow:0 0 40px rgba(0,255,170,0.6); border:2px solid rgba(0,255,170,0.7);"/>
-
-</td>
-
-<td width="50%" align="left">
-
-### 💻 AI_TERMINAL
+## SYSTEM CORE
 
 ```bash
-> user: jomana_mostafa
-> role: AI_ENGINEER_IN_PROGRESS
+IDENTITY  : jomanamostafa
+ROLE      : AI ENGINEER (IN PROGRESS)
+STATUS    : ONLINE 🟢
 
-[BOOT]
-✔ Python Initialized
-✔ Java Systems Loaded
-✔ SQL Databases Connected
-✔ ML Models Running
+DOMAIN:
+→ Artificial Intelligence
+→ Data Systems
+→ Scalable Backend Engineering
 
-[CORE_STATUS]
-→ Intelligence: LEARNING
-→ Systems: SCALABLE
-→ Mode: FULL-STACK AI
-→ Target: FAANG
+CURRENT FOCUS:
+✔ Machine Learning Systems
+✔ Data Pipelines
+✔ Full-Stack Applications
 
-> system stable ✔
+MISSION:
+Design systems that turn data into intelligence.
 ````
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- ⚡ CLEAN DIVIDER -->
+## TECH STACK
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,100:00c3ff&height=3"/>
-</p>
-
-## 🧠 AI STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mysql,mongodb,docker,linux,git,github,aws&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-00ffaa?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Engineering-00c3ff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full_Stack-0A66C2?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,mongodb,docker,linux,git,github,aws"/>
 </p>
 
 ---
 
-## 📊 AI DASHBOARD
+## ENGINE STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomanamostafa&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffaa&icon_color=00ffaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomanamostafa&layout=compact&theme=github_dark&hide_border=true&title_color=00ffaa"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jomanamostafa&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true&ring=00ffaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomanamostafa&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true&color=00ffaa&line=00c3ff&point=00ffaa"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://streak-stats.demolab.com?user=jomanamostafa&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 CONNECT
+## NEURAL ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomanamostafa&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## CONNECT
 
 <p align="center">
   <a href="https://linkedin.com/in/jomanamostafa">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffaa?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-00c3ff?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://github.com/jomanamostafa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-<!-- 🌊 GLASS FOOTER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
 
-<h3 align="center">🦋 CODE • LEARN • BUILD • REPEAT 🦋</h3>
+<h3 align="center">Code. Learn. Build. Evolve.</h3>
 ```
 
-
+---
