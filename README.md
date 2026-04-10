@@ -1,40 +1,51 @@
-
+```markdown
 <h1 align="center">💀 j0m4n4_m0st4f4 💀</h1>
 <h3 align="center">[ AI_ENGINEER_IN_PROGRESS ] 🤖 | TARGET: FAANG 🎯</h3>
 
-<!-- Matrix rain header -->
+<!-- Matrix Pixel Rain Header -->
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
 </p>
 
-<!-- Terminal typing effect -->
+<!-- Terminal Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=2000&pause=800&color=00ff00&center=true&vCenter=true&width=650&lines=01001000+01001001;AI+%7C+Data+%7C+Full-Stack;Python+%7C+Java+%7C+SQL;Building+Intelligent+Systems;root@jomana:~$+whoami+%7C+jomana_mostafa" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&duration=2000&pause=800&color=00ff00&center=true&vCenter=true&width=700&lines=root@system:~$+init+ai_protocol;>+Establishing+secure+connection...;>+Loading+Full-Stack+drivers...;>+Accessing+ML_core_modules...;>+Welcome+to+the+mainframe." />
 </p>
 
-<!-- Hacker wave divider -->
+<!-- Digital Wave Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,70:001a00,100:003300&height=100&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:003300,100:000000&height=80&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
-### 🔐 [ ABOUT_ME ]
+### 🔐 [ SYSTEM_BOOT_LOG ]
 ```bash
-┌─────────────────────────────────────────────┐
-│ > user: jomana_mostafa                      │
-│ > role: AI_Engineer_Candidate               │
-│ > stack: [Python, Java, SQL, ML, FullStack] │
-│ > mission: Build_scalable_AI_systems        │
-│ > target: FAANG_2025 🚀                     │
-│ > status: [████████████████] 100% loading   │
-│ > access_level: ROOT                        │
-└─────────────────────────────────────────────┘
+┌─[ SYSTEM_INITIALIZATION ]──────────────────────────────────────────┐
+│ [00:00:00] > KERNEL LOAD: SUCCESS                                  │
+│ [00:00:01] > MOUNTING /dev/neural_network... [OK]                  │
+│ [00:00:02] > INITIATING AI_CORE_ENGINE...                          │
+│            [████████████████████████████████] 100% READY           │
+│ [00:00:03] > DEPLOYING FULL-STACK_PROTOCOLS...                     │
+│            [███████████████████░░░░░░░░░░░░] 78% OPTIMIZING        │
+│ [00:00:04] > AUTHENTICATING USER: jomana_mostafa                   │
+│            [✓] ACCESS_LEVEL: ROOT                                  │
+│            [✓] UPTIME: 24/7                                        │
+│            [✓] MISSION: FAANG_ACCELERATION                         │
+│                                                                    │
+│ > STATUS: ONLINE                                                  │
+│ > NEXT_TASK: BUILD_SCALABLE_AI_SYSTEMS                              │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ### ⚡ [ TECH_ARSENAL ]
+<!-- Pixel Rain Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,mongodb,git,github,docker,linux,bash,cpp,aws&theme=dark"/>
 </p>
@@ -48,9 +59,10 @@
   <img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=flat-square&logo=linux&logoColor=00ff00"/>
 </p>
 
-<!-- Binary decoration -->
+<!-- Hex Dump Decoration -->
 <p align="center">
-  <code>01001001</code> <code>01000001</code> <code>01001001</code> <code>01000101</code> <code>01001110</code> <code>01000111</code> <code>01000101</code> <code>01000101</code> <code>01010010</code> <code>00100001</code>
+  <code>48 45 4C 4C 4F 20 57 4F 52 4C 44</code> <br>
+  <code>01001000 01000101 01001100 01001100 01001111</code>
 </p>
 
 ---
@@ -93,7 +105,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Matrix rain footer effect -->
+<!-- Heavy Matrix Rain Footer -->
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
 </p>
@@ -102,10 +114,10 @@
 
 ### 🌐 [ CONNECT_PROTOCOL ]
 <p align="center">
-  <a href="https://linkedin.com/in/jomanamostafa">
+  <a href="[https://linkedin.com/in/jomanamostafa](https://www.linkedin.com/in/jomana-mostafa/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ff00&logoSize=auto"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:jomana.halafawy.ket@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff00&logoSize=auto"/>
   </a>
   <a href="https://github.com/jomanamostafa">
@@ -113,7 +125,7 @@
   </a>
 </p>
 
-<!-- Binary footer -->
+<!-- Binary Footer -->
 <p align="center">
   <code>01000011</code> <code>01001111</code> <code>01000100</code> <code>01000101</code> <code>00101110</code> <code>01001100</code> <code>01000101</code> <code>01000001</code> <code>01010010</code> <code>01001110</code> <code>00101110</code> <code>01000010</code> <code>01010101</code> <code>01001001</code> <code>01001100</code> <code>01000100</code> <code>00101110</code> <code>01010010</code> <code>01000101</code> <code>01010000</code> <code>01000101</code> <code>01000001</code> <code>01010100</code>
 </p>
@@ -122,14 +134,14 @@
 
 ### 💀 [ AESTHETIC_TERMINAL ]
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3o7TKSx0g7RqRniGFG/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7TKSx0g7RqRniGFG/giphy.gif" width="100"/>
 </p>
 
-<!-- Final hacker wave -->
+<!-- Final Hacker Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,30:001a00,70:0a0a0a,100:000000&height=80&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,30:001100,70:000000,100:000000&height=60&section=footer&animation=fadeIn"/>
 </p>
 
 <h3 align="center">💀 "CODE. LEARN. BUILD. REPEAT." 💀</h3>
@@ -139,7 +151,6 @@
     [ SYSTEM_NOTE ]
     > Binary decoded: CODE. LEARN. BUILD. REPEAT.
     > Access Level: ROOT
-    > Welcome to the Matrix, Jomana.
     > All systems operational.
     > End of transmission.
 -->
