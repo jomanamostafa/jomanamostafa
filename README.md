@@ -14,10 +14,13 @@
 
 ---
 
-<!-- 🚨 CUSTOM TALL GIF SECTION 🚨 -->
-<!-- Make sure 'nice.gif' is in your repository root folder -->
+<!-- 📺 PROFESSIONAL TALL GIF SHOWCASE 📺 -->
 <p align="center">
-  <img src="nice.gif" width="150" height="450" alt="Vertical Animation"/>
+  <img src="Untitled(1).gif" 
+       alt="Coding in Progress" 
+       width="150" 
+       height="450" 
+       style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.5); border: 2px solid #00ff88;" />
 </p>
 
 <!-- Animated Divider -->
@@ -49,28 +52,28 @@
 ---
 
 ### ⚡ [ TECH_ARSENAL ]
-<!-- Animated Tech Icons Row 1 -->
+<!-- Mature Tech PNGs -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gear.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="45" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,mongodb,git,github,docker,linux,bash,cpp,aws&theme=dark"/>
 </p>
 
-<!-- Animated Tech Badges -->
+<!-- Tech Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/📊_Pandas-150458?style=flat-square&logo=pandas&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/🧠_AI/ML-00ff88?style=flat-square&logo=tensorflow&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/📊_Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/🔬_PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/☁️_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=flat-square&logo=docker&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=flat-square&logo=linux&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/🦋_Flutter-02569B?style=flat-square&logo=flutter&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/🌐_FullStack-0A66C2?style=flat-square&logoColor=00ff88"/>
 </p>
 
 <p align="center">
@@ -125,11 +128,11 @@
 ---
 
 ### 🌐 [ CONNECT_PROTOCOL ]
-<!-- Animated Social Icons -->
+<!-- Professional Connect Icons -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="40" />
 </p>
 
 <p align="center">
@@ -152,9 +155,9 @@
 
 ### 🟢 [ SYSTEM_STATUS ]
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Laptop.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Microscope.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desk.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="80" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" />
 </p>
 
