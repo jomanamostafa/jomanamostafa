@@ -4,8 +4,7 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <h1 align="center">Hi ! I am Jomana  </h1>
-      <h2 align="center">ωᥱℓᥴ𐐫mᥱ ! to my Space! (˶ˆᗜˆ˵)/</h2>
+      <h2 align="center">ωᥱℓᥴ𐐫mᥱ!</h2>
       <h3 align="center">AI Engineer in Progress </h3>
       <p align="center">
         Building intelligent systems through AI, data, and scalable software engineering.
